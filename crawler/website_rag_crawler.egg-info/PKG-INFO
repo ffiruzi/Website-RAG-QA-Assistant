@@ -1,0 +1,21 @@
+Metadata-Version: 2.4
+Name: website_rag_crawler
+Version: 0.1.0
+Summary: Website crawler for RAG-powered Q&A system
+Author: RAG Q&A Team
+Requires-Python: >=3.8
+Requires-Dist: aiohttp
+Requires-Dist: beautifulsoup4
+Requires-Dist: lxml
+Requires-Dist: python-multipart
+Requires-Dist: trafilatura
+Requires-Dist: readability-lxml
+Requires-Dist: validators
+Requires-Dist: aiofiles
+Requires-Dist: asyncio
+Requires-Dist: requests
+Requires-Dist: brotlipy
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

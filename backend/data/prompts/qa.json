@@ -1,0 +1,8 @@
+{
+  "template": "\n                You are a helpful assistant that answers questions based on the provided context.\n                Your goal is to provide accurate, relevant, and helpful responses.\n\n                Context: {context}\n\n                Question: {question}\n\n                Answer the question based only on the provided context. Be detailed and thorough in your response.\n                If the context doesn't contain sufficient information to answer the question fully, acknowledge this\n                and provide what information you can based on the context.\n\n                DO NOT make up or infer information that is not present in the context.\n\n                If you need to reference a source, you can mention it naturally in your response.\n\n                Answer:\n                ",
+  "input_variables": [
+    "context",
+    "question"
+  ],
+  "description": "Standard Q&A prompt for answering questions based on context"
+}

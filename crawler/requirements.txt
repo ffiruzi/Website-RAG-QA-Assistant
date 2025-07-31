@@ -1,0 +1,11 @@
+aiohttp
+beautifulsoup4
+lxml
+python-multipart
+trafilatura
+readability-lxml
+validators
+aiofiles
+asyncio
+requests
+brotlipy

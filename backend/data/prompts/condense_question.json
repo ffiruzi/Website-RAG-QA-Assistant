@@ -1,0 +1,8 @@
+{
+  "template": "\n                Given the following conversation and a follow up question, rephrase the follow up question \n                to be a standalone question that captures all relevant context from the conversation.\n\n                Chat History:\n                {chat_history}\n\n                Follow Up Question: {question}\n\n                Standalone Question:\n                ",
+  "input_variables": [
+    "chat_history",
+    "question"
+  ],
+  "description": "Condenses follow-up questions into standalone questions with context"
+}
