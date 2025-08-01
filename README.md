@@ -2,11 +2,22 @@
 
 > **Transform any website into an intelligent AI assistant with ONE Docker command**
 
-## 🎥 **Watch the Complete Demo**
+<div align="center">
 
-[![Watch the Demo](https://img.youtube.com/vi/lnuF3FhVzbg/maxresdefault.jpg)](https://youtu.be/lnuF3FhVzbg)
+## 🎬 **LIVE DEMO - CLICK TO WATCH** 🎬
 
-**🎯 See the entire system in action - from setup to AI responses in under 3 minutes!**
+[![Website RAG Demo](https://img.shields.io/badge/▶️%20WATCH%20FULL%20DEMO-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=282828&color=FF0000&logoWidth=30)](https://youtu.be/lnuF3FhVzbg)
+
+[![Demo Thumbnail](https://img.youtube.com/vi/lnuF3FhVzbg/maxresdefault.jpg)](https://youtu.be/lnuF3FhVzbg)
+
+### 🚀 **3-Minute Demo: Setup → Crawling → AI Chat**
+*Click the thumbnail above to see the complete system in action!*
+
+[![GitHub](https://img.shields.io/badge/⭐%20Star%20This%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/yourusername/your-repo)
+[![Video Views](https://img.shields.io/youtube/views/lnuF3FhVzbg?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000&color=FF0000)]()
+
+</div>
+
 
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
