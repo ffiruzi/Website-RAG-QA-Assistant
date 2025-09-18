@@ -13,7 +13,7 @@
 ### 🚀 **3-Minute Demo: Setup → Crawling → AI Chat**
 *Click the thumbnail above to see the complete system in action!*
 
-[![GitHub](https://img.shields.io/badge/⭐%20Star%20This%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/yourusername/your-repo)
+[![GitHub](https://img.shields.io/badge/⭐%20Star%20This%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/ffiruzi/Website-RAG-QA-Assistant)
 [![Video Views](https://img.shields.io/youtube/views/lnuF3FhVzbg?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000&color=FF0000)]()
 
 </div>
